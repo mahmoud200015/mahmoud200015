@@ -12,10 +12,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud200015&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud200015" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud200015" alt="mahmoud200015" /></a> </p>
-
 - 🔭 I’m currently working on **Portfolio for me**
 
 - 🌱 I’m currently practicing on **JavaScript then learning Node.js**
@@ -27,6 +23,12 @@
 - 📫 How to reach me **mahmoud15921592@gmail.com**
 
 - ⚡ Fun fact **They said Taller People Make More Money**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud200015&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud200015" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud200015" alt="mahmoud200015" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,11 +47,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud200015&show_icons=true&locale=en&layout=compact" alt="mahmoud200015" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanemNaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
-</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud200015&show_icons=true&locale=en" alt="mahmoud200015" /></p>
 
