@@ -1,7 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Mahmoud Ayman Abdalmoaz 💪🏼💪🏼</h1>
-<h3 align="center" letter-spacing="2px" color="red">A passionate backend developer from Egypt</h3>
-<img width="1000" height="300" border-radius="5" border="2px solid #FFF" src="https://www.imaginarycloud.com/blog/content/images/2021/01/backenddeveloper-1.jpeg" alt="Work">
+<h1 align="center">Hi 👋, I'm Mahmoud Ayman </h1>
+<h3 align="center" letter-spacing="2px" color="red">A passionate web developer from Egypt</h3>
+
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud200015&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud200015" /> </p>
 
@@ -9,7 +14,7 @@
 
 - 🔭 I’m currently working on **Portfolio for me**
 
-- 🌱 I’m currently learning **JavaScript then Node.js**
+- 🌱 I’m currently practicing on **JavaScript then learning Node.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -17,12 +22,16 @@
 
 - 📫 How to reach me **mahmoud15921592@gmail.com**
 
-- ⚡ Fun fact **I like secrets**
+- ⚡ Fun fact **They said Taller People Make More Money**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoudayman2019" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudayman2019" height="30" width="40" /></a>
 <a href="https://fb.com/mah15moud9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mah15moud9" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Problems solving websites:</h3>
+<p align="left">
 <a href="https://www.hackerrank.com/mahmoud_ayman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmoud_ayman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Coder_6_2021" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mah15moud9" height="30" width="40" /></a>
 </p>
